@@ -1,4 +1,5 @@
-# MCQ
+//Code by rishabh jain
+//email :- rishabhhasanemail@gmail.com
 #include "msp430g2553.h"
 #include"lcdLib.h"
 #include<math.h>
