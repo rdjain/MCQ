@@ -1,4 +1,4 @@
-//Code by rishabh jain
+//Code by rishabh jain,sambhav jain and vijetha bhat
 //email :- rishabhhasanemail@gmail.com
 #include "msp430g2553.h"
 #include"lcdLib.h"
